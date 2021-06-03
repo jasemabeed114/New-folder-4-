@@ -1,0 +1,16 @@
+         <form method="post" action="/mfa/Login/Resend" autocomplete="off">
+                                <input id="returnUrl" name="returnUrl" value="/MyWallet/Detail/116435261">value="gfjYQ49ypUC0jXtulBLPsw">
+                                <input name="__RequestVerificationToken"  value="CfDJ8L4xX6aqjkNJuAfuS4_a6tv4XVAIfIvJuQh_i6V6pGMxCS32HaU8D4tsjUVy_krFN2OmVB8SrvMZA04281QwAEzWeH_3VNPXx-GxK6iXDOLmni7NXB2ECTFEtPNUTY7AkBmI7g5vIltt7n1c9FdaVlsuW0KUGVAMuxuu9z5BkSl44Epz773x5mRWGvPpypd1pQ">
+
+                                <div class="mfa__actions--smcenter">
+                                    <div class="mfa__flexcenter">
+                                        <button type="submit" class="mfa__btn--transparent js-btn-resend">Resend</button>
+                                            <div>
+                                                <div id="telltaleEmailWasResent"></div>
+                                                <div class="mfa__actionmsg">
+                                                    Verification Email has been resent.
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                            </form>
